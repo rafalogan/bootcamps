@@ -1,0 +1,24 @@
+# idea's
+\.idea
+\.vscode
+**/.idea
+**/.vscode
+
+# files
+.DS_Store
+.env
+**/big.file
+
+# folders
+\dist
+\build
+data/data-base
+**/database/postegres
+**/database/mongodb
+\coverage
+\.nyc_output
+
+
+# Modules
+node_modules
+
